@@ -1,2 +1,11 @@
-# IKT-projekt
-![kollázs](https://user-images.githubusercontent.com/91486096/136426772-d1f5dc29-4af5-42ab-9955-440a6e47f201.png)
+<!DOCTYPE html>
+<html>
+<head>
+<h1>IKT-projekt-01: Kép</h1>
+</head>
+<body>
+
+<img src="kollázs.png" alt="kollázs.png" width="256" height="256">
+
+</body>
+</html>
